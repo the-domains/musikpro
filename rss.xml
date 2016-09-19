@@ -4,9 +4,9 @@
         <description><![CDATA[Musik + Streaming]]></description>
         <link>http://musik.pro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Sep 2016 20:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2016 20:30:49 GMT</lastBuildDate>
         <atom:link href="http://musik.pro/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Sep 2016 20:10:25 GMT</pubDate>
+        <pubDate>Mon, 19 Sep 2016 20:30:47 GMT</pubDate>
         <item>
             <title><![CDATA[Kidvoting]]></title>
             <description><![CDATA[<article><h1>Kidvoting</h1><p>Nicht ganz frisch, aber immer noch einen Link wert:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4beed86dfc2ce3bd1a58e747203d82c737473e98.jpg"></article>]]></description>
@@ -34,6 +34,13 @@
             <link>https://www.youtube.com/watch?v=TASsrQpJXo4</link>
             <guid isPermaLink="false">efe0083c-3ce0-4f0d-b934-80662334537f</guid>
             <pubDate>Fri, 09 Sep 2016 20:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Song des Tages]]></title>
+            <description><![CDATA[<article><h1>Song des Tages</h1><p>Was für eine schöne Idee - einfach mal den "songdestages.de" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"></article>]]></description>
+            <link>http://songdestages.de</link>
+            <guid isPermaLink="false">262bd507-68dd-43b6-9cc1-0b123d10830a</guid>
+            <pubDate>Mon, 19 Sep 2016 20:30:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EVERYNOISE]]></title>
