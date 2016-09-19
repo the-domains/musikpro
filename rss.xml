@@ -4,9 +4,9 @@
         <description><![CDATA[Musik + Streaming]]></description>
         <link>http://musik.pro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Sep 2016 20:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2016 20:30:57 GMT</lastBuildDate>
         <atom:link href="http://musik.pro/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Sep 2016 20:30:47 GMT</pubDate>
+        <pubDate>Mon, 19 Sep 2016 20:30:55 GMT</pubDate>
         <item>
             <title><![CDATA[Kidvoting]]></title>
             <description><![CDATA[<article><h1>Kidvoting</h1><p>Nicht ganz frisch, aber immer noch einen Link wert:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4beed86dfc2ce3bd1a58e747203d82c737473e98.jpg"></article>]]></description>
@@ -22,6 +22,13 @@
             <pubDate>Mon, 19 Sep 2016 17:32:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Song des Tages]]></title>
+            <description><![CDATA[<article><h1>Song des Tages</h1><p>Was für eine schöne Idee - einfach mal den "songdestages.de" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"></article>]]></description>
+            <link>http://songdestages.de</link>
+            <guid isPermaLink="false">262bd507-68dd-43b6-9cc1-0b123d10830a</guid>
+            <pubDate>Mon, 19 Sep 2016 20:30:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SWR2: "Musikstreaming-Dienste brauchen Menschen: Adieu Algorithmus?"]]></title>
             <description><![CDATA[<article><h1>SWR2: "Musikstreaming-Dienste brauchen Menschen: Adieu Algorithmus?"</h1><p>Musik für alle Lebenslagen, Songs für jede Stimmung - immer und überall, meistens gratis. Das ist das verführerische Angebot der Streamingdienste. Um die 40 Millionen Songs haben Deezer, Spotify und Co im Angebot, jeden Tag kommen 20.000 dazu. Aber: Kein Mensch kann und will das alles hören.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ff59e4d71f4f1d523ba9b5a8a6ff6c3b/noop.jpg?input=http%3A%2F%2Fwww.swr.de%2F-%2Fid%3D18079240%2Fproperty%3Dfull%2F4chvfq%2FMusikstreaming-Dienst%2520Deezer.jpg"></article>]]></description>
             <link>http://www.swr.de/swr2/kultur-info/netzkultur-musikstreaming-dienste-deezer-christoph-moeller/-/id=9597116/did=18078926/nid=9597116/1g5fwx1/index.html</link>
@@ -34,13 +41,6 @@
             <link>https://www.youtube.com/watch?v=TASsrQpJXo4</link>
             <guid isPermaLink="false">efe0083c-3ce0-4f0d-b934-80662334537f</guid>
             <pubDate>Fri, 09 Sep 2016 20:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Song des Tages]]></title>
-            <description><![CDATA[<article><h1>Song des Tages</h1><p>Was für eine schöne Idee - einfach mal den "songdestages.de" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"></article>]]></description>
-            <link>http://songdestages.de</link>
-            <guid isPermaLink="false">262bd507-68dd-43b6-9cc1-0b123d10830a</guid>
-            <pubDate>Mon, 19 Sep 2016 20:30:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EVERYNOISE]]></title>
