@@ -1,0 +1,33 @@
+typography_spectrum: 0.4966812359634787
+color:
+  brandStrength: 0.9775101856794208
+  lightness: 0.7382583182770759
+  saturation: 0.9296275870874524
+  rhythmicContrast: 0.36825947440229356
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+github: true
+layout_spectrum: 0.865199645748362
+analytics:
+  google: UA-110487-30
+name: musik.pro
+navigation:
+  - name: Musik-Streaming Dienste
+    id: dd1e0d5b-d963-4a62-9926-c179bfab914b
+    type: content
+  - name: Über musik.pro
+    id: c6bf62f4-ca7a-477e-8af2-2dfd85f66254
+    type: content
+  - name: Homepage
+    url: 'http://musik.pro'
+    type: external
+title: Musik + Streaming
+description: Gestreamte Linkschleuderei.
+purpose:
+  - type: external
+    url: 'http://musik.pro/rss.xml'
+    label: Abonnieren / RSS
