@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-19T20:30:46.434Z'
+datePublished: '2016-09-19T20:30:54.354Z'
 inFeed: true
 isBasedOnUrl: 'http://songdestages.de'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-19T20:29:35.520Z'
+dateModified: '2016-09-19T20:30:53.655Z'
 title: Song des Tages
 app_links: []
 publisher:
@@ -19,8 +19,8 @@ description: >-
   die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. Vielleicht
   motiviert diese Verlinkung ja zu mehr dailyoutput...
 inLanguage: de
-starred: false
 sourcePath: _posts/2016-09-19-song-des-tages.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
