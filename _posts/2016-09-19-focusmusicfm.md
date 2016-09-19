@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-09-19T16:53:15.660Z'
+datePublished: '2016-09-19T16:54:53.313Z'
+sourcePath: _posts/2016-09-19-focusmusicfm.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-19T16:53:14.947Z'
+dateModified: '2016-09-19T16:54:52.712Z'
 title: focusmusic.fm
 publisher: {}
 description: >-
   Ein Streaming-Radio um bei der Arbeit produktiv zu sein und in den Flow zu
   kommen. Bemerkenswert: Das minimalistische Design.Passend: Der Name
   focusmusic.fm
-sourcePath: _posts/2016-09-19-focusmusicfm.md
 starred: false
 _context: 'http://schema.org'
 _type: Article
