@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-19T17:20:46.937Z'
+datePublished: '2016-09-19T17:20:49.601Z'
 sourcePath: _posts/2016-09-05-watermat-bullit-so-real-official-vocal-version.md
 isBasedOnUrl: 'https://www.youtube.com/embed/qPrvc6XczJA'
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/columbiadeutschland'
     avatar: {}
 via: {}
-dateModified: '2016-09-19T17:20:45.886Z'
+dateModified: '2016-09-19T17:20:48.589Z'
 title: Watermät - Bullit (So Real) - Official Vocal Version
 app_links: []
 publisher:
@@ -19,7 +19,7 @@ publisher:
   domain: www.youtube.com
 description: 'Bisher an mir vorbeigegangen, will nicht raus aus den Ohren'
 inFeed: true
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
