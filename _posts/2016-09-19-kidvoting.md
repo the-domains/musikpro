@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-19T20:08:20.045Z'
+datePublished: '2016-09-19T20:09:05.329Z'
 inFeed: true
 isBasedOnUrl: >-
   http://thump.vice.com/de/article/ich-habe-meine-kleinen-cousins-clubhits-bewerten-lassen
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-19T20:08:12.358Z'
+dateModified: '2016-09-19T20:09:04.820Z'
 title: Kidvoting
 app_links: []
 publisher:
@@ -17,8 +17,8 @@ publisher:
   domain: thump.vice.com
 description: 'Nicht ganz frisch, aber immer noch verlinkenswert:'
 inLanguage: de
-starred: false
 sourcePath: _posts/2016-09-19-kidvoting.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
