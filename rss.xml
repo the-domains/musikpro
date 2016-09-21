@@ -4,9 +4,9 @@
         <description><![CDATA[Musik + Streaming]]></description>
         <link>http://musik.pro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Sep 2016 20:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2016 20:37:29 GMT</lastBuildDate>
         <atom:link href="http://musik.pro/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Sep 2016 20:35:37 GMT</pubDate>
+        <pubDate>Wed, 21 Sep 2016 20:37:28 GMT</pubDate>
         <item>
             <title><![CDATA[Song des Tages]]></title>
             <description><![CDATA[<article><h1>Song des Tages</h1><p>Was für eine schöne Idee - einfach mal den "songdestages.de" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://thump.vice.com/de/article/ich-habe-meine-kleinen-cousins-clubhits-bewerten-lassen</link>
             <guid isPermaLink="false">ee287bca-fcd1-40f4-8728-42137c38d203</guid>
             <pubDate>Mon, 19 Sep 2016 20:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Was zahlen Streaming-Dienste an Musiker?]]></title>
+            <description><![CDATA[<article><h1>Was zahlen Streaming-Dienste an Musiker?</h1><p>Wieviele Streams müssen abgerufen werden, bis ein Musiker einen Dollar verdient? Auf "Digital Music News" gibt es eine interessante Balkengrafik dazu, aufgeschlüsselt nach Streaming-Diensten.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b18bb7a-4200-471d-9216-52449fc03a79.jpg"></article>]]></description>
+            <link>http://www.digitalmusicnews.com/2016/09/15/streaming-music-earn-1-dollar/</link>
+            <guid isPermaLink="false">9e0e9945-1f97-42c9-8c13-7779451c3a6e</guid>
+            <pubDate>Wed, 21 Sep 2016 20:37:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iTunes-Update gestaltet Apple Music neu und unterstützt iOS 10]]></title>
@@ -41,13 +48,6 @@
             <link>https://www.youtube.com/watch?v=TASsrQpJXo4</link>
             <guid isPermaLink="false">efe0083c-3ce0-4f0d-b934-80662334537f</guid>
             <pubDate>Tue, 20 Sep 2016 12:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was zahlen Streaming-Dienste an Musiker?]]></title>
-            <description><![CDATA[<article><h1>Was zahlen Streaming-Dienste an Musiker?</h1><p>Wieviele Streams müssen abgerufen werden, bis ein Musiker einen Dollar verdient? Auf "Digital Music News" gibt es eine interessante Balkengrafik dazu, aufgeschlüsselt nach Streaming-Diensten.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b18bb7a-4200-471d-9216-52449fc03a79.jpg"></article>]]></description>
-            <link>http://www.digitalmusicnews.com/2016/09/15/streaming-music-earn-1-dollar/</link>
-            <guid isPermaLink="false">9e0e9945-1f97-42c9-8c13-7779451c3a6e</guid>
-            <pubDate>Wed, 21 Sep 2016 20:35:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EVERYNOISE]]></title>
