@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-21T20:35:36.626Z'
+datePublished: '2016-09-21T20:37:27.060Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-21T20:34:27.733Z'
+dateModified: '2016-09-21T20:37:26.618Z'
 title: Was zahlen Streaming-Dienste an Musiker?
 publisher: {}
 description: >-
@@ -11,8 +11,8 @@ description: >-
   verdient? Auf "Digital Music News" gibt es eine interessante Balkengrafik
   dazu, aufgeschlüsselt nach Streaming-Diensten.
 isBasedOnUrl: 'http://www.digitalmusicnews.com/2016/09/15/streaming-music-earn-1-dollar/'
-starred: false
 sourcePath: _posts/2016-09-21-was-zahlen-streaming-dienste-an-musiker.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
