@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-21T20:37:27.060Z'
+datePublished: '2016-09-21T20:37:29.410Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-21T20:37:26.618Z'
+dateModified: '2016-09-21T20:37:29.110Z'
 title: Was zahlen Streaming-Dienste an Musiker?
 publisher: {}
 description: >-
