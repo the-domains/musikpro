@@ -4,16 +4,9 @@
         <description><![CDATA[Musik + Streaming]]></description>
         <link>http://musik.pro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Nov 2016 12:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2016 12:11:37 GMT</lastBuildDate>
         <atom:link href="http://musik.pro/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Nov 2016 12:10:28 GMT</pubDate>
-        <item>
-            <title><![CDATA[Zufriedenheitsstudie: Apple Music führt Streaming-Markt an]]></title>
-            <description><![CDATA[<article><h1>Zufriedenheitsstudie: Apple Music führt Streaming-Markt an</h1><p>In Europa bzw. Deutschland sähe das Ergebnis sicher anders aus…</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35d71c1c8219f3ec09d229b55945604d5d47c8ac.jpg"></article>]]></description>
-            <link>http://www.heise.de/newsticker/meldung/Zufriedenheitsstudie-Apple-Music-fuehrt-Streaming-Markt-an-3337687.html</link>
-            <guid isPermaLink="false">24757dd1-3693-4f19-9362-e8fc51d277a7</guid>
-            <pubDate>Thu, 29 Sep 2016 15:57:32 GMT</pubDate>
-        </item>
+        <pubDate>Tue, 15 Nov 2016 12:11:36 GMT</pubDate>
         <item>
             <title><![CDATA[Song des Tages]]></title>
             <description><![CDATA[<article><h1>Song des Tages</h1><p>Was für eine schöne Idee - einfach mal den "songdestages.de" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"></article>]]></description>
@@ -69,6 +62,13 @@
             <link>http://everynoise.com</link>
             <guid isPermaLink="false">a279b8a7-81eb-47c7-b898-314dcb6c50bd</guid>
             <pubDate>Tue, 20 Sep 2016 12:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zufriedenheitsstudie: Apple Music führt Streaming-Markt an]]></title>
+            <description><![CDATA[<article><h1>Zufriedenheitsstudie: Apple Music führt Streaming-Markt an</h1><p>In Europa bzw. Deutschland sähe das Ergebnis sicher anders aus…</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35d71c1c8219f3ec09d229b55945604d5d47c8ac.jpg"></article>]]></description>
+            <link>http://www.heise.de/newsticker/meldung/Zufriedenheitsstudie-Apple-Music-fuehrt-Streaming-Markt-an-3337687.html</link>
+            <guid isPermaLink="false">24757dd1-3693-4f19-9362-e8fc51d277a7</guid>
+            <pubDate>Tue, 15 Nov 2016 12:11:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Was zahlen Streaming-Dienste an Musiker?]]></title>
