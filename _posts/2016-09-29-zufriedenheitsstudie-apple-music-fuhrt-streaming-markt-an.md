@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-29T15:57:32.687Z'
+datePublished: '2016-11-15T12:11:35.486Z'
 inFeed: true
 isBasedOnUrl: >-
   http://www.heise.de/newsticker/meldung/Zufriedenheitsstudie-Apple-Music-fuehrt-Streaming-Markt-an-3337687.html
@@ -13,7 +13,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-09-29T15:57:32.374Z'
+dateModified: '2016-11-15T12:11:35.101Z'
 title: 'Zufriedenheitsstudie: Apple Music führt Streaming-Markt an'
 app_links: []
 publisher:
