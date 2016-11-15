@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-15T12:05:56.009Z'
+datePublished: '2016-11-15T12:09:03.196Z'
 sourcePath: _posts/2016-11-15-neu-gestaltetes-google-play-music-vorgestellt.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-15T12:05:55.187Z'
+dateModified: '2016-11-15T12:09:02.696Z'
 title: Neu gestaltetes Google Play Music vorgestellt
 app_links: []
 publisher:
@@ -36,4 +36,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c30c967c75834e8a06c59be114488444/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fstatic%2Fblog%2Fimages%2Fgoogle-200x200.7714256da16f.png" /><h1>Neu gestaltetes Google Play Music vorgestellt</h1><p>Das Userinterface wurde behutsam aktualisiert (verbessert). Die neuen auf künstlicher Intelligenz basierenden individuellen Playlisten funktionieren bei ersten Tests erstaunlich gut.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c30c967c75834e8a06c59be114488444/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fstatic%2Fblog%2Fimages%2Fgoogle-200x200.7714256da16f.png" /><h1>Neu gestaltetes Google Play Music vorgestellt</h1></article>
+
+Das Userinterface wurde behutsam aktualisiert (verbessert). Die neuen auf künstlicher Intelligenz basierenden individuellen Playlisten funktionieren bei ersten Tests erstaunlich gut.
