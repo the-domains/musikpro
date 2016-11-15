@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-11-15T12:03:54.402Z'
+datePublished: '2016-11-15T12:05:56.009Z'
+sourcePath: _posts/2016-11-15-neu-gestaltetes-google-play-music-vorgestellt.md
 inFeed: true
 isBasedOnUrl: >-
   https://blog.google/products/google-play/introducing-the-new-google-play-music/
@@ -17,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-15T12:03:52.772Z'
+dateModified: '2016-11-15T12:05:55.187Z'
 title: Neu gestaltetes Google Play Music vorgestellt
 app_links: []
 publisher:
@@ -26,15 +27,13 @@ publisher:
   favicon: 'https://blog.google/favicon.ico'
   domain: blog.google
 description: >-
-  Whether reminding you to leave to catch your flight, helping you find pictures
-  of your daughter's recital, or suggesting the right Smart Reply, Google builds
-  tools that help you make the world of information more accessible and useful.
-  And at Google Play Music, we strive for the same.
+  Das Userinterface wurde behutsam aktualisiert (verbessert). Die neuen auf
+  künstlicher Intelligenz basierenden individuellen Playlisten funktionieren bei
+  ersten Tests erstaunlich gut.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-11-15-neu-gestaltetes-google-play-music-vorgestellt.md
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-200x200.7714256da16f.png" /><h1>Neu gestaltetes Google Play Music vorgestellt</h1><p>Whether reminding you to leave to catch your flight, helping you find pictures of your daughter's recital, or suggesting the right Smart Reply, Google builds tools that help you make the world of information more accessible and useful. And at Google Play Music, we strive for the same.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c30c967c75834e8a06c59be114488444/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fstatic%2Fblog%2Fimages%2Fgoogle-200x200.7714256da16f.png" /><h1>Neu gestaltetes Google Play Music vorgestellt</h1><p>Das Userinterface wurde behutsam aktualisiert (verbessert). Die neuen auf künstlicher Intelligenz basierenden individuellen Playlisten funktionieren bei ersten Tests erstaunlich gut.</p></article>
