@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-21T21:10:12.101Z'
+datePublished: '2017-01-18T17:52:08.799Z'
 sourcePath: _posts/2016-09-05-playlisten-verschieben.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-21T21:07:48.919Z'
+dateModified: '2017-01-18T17:52:07.108Z'
 title: Playlisten verschieben
 publisher:
   url: 'https://freeyourmusic.com'
@@ -13,6 +13,7 @@ description: >-
   Selbst ausprobiert und es funzt - Playlisten von einem Dienst zum anderen
   transferieren - mit der App "Stamp":
 starred: false
+datePublishedOriginal: '2016-09-21T21:10:12.101Z'
 _type: Blurb
 
 ---
