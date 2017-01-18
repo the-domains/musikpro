@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-19T20:10:25.047Z'
+datePublished: '2017-01-18T17:52:09.883Z'
 sourcePath: _posts/2016-09-19-kidvoting.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-19T20:10:24.335Z'
+dateModified: '2017-01-18T17:52:07.108Z'
 title: Kidvoting
 app_links: []
 publisher:
@@ -19,6 +19,7 @@ publisher:
 description: 'Nicht ganz frisch, aber immer noch einen Link wert:'
 inLanguage: de
 starred: false
+datePublishedOriginal: '2016-09-19T20:10:25.047Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
