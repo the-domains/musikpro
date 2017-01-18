@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-19T17:18:54.367Z'
+datePublished: '2017-01-18T17:38:37.578Z'
 sourcePath: _posts/2016-09-19-focusmusicfm.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-19T17:18:53.504Z'
+dateModified: '2016-11-18T22:47:19.268Z'
 title: focusmusic.fm
 publisher: {}
 description: >-
@@ -12,6 +12,7 @@ description: >-
   kommen. Bemerkenswert: Das minimalistische Design.Passend: Der Name
   focusmusic.fm
 starred: false
+datePublishedOriginal: '2016-09-19T17:18:54.367Z'
 _context: 'http://schema.org'
 _type: Article
 
