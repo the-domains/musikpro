@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-18T17:38:37.578Z'
+datePublished: '2017-01-18T17:41:33.762Z'
 sourcePath: _posts/2016-09-19-focusmusicfm.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-18T22:47:19.268Z'
+dateModified: '2017-01-18T17:41:33.130Z'
 title: focusmusic.fm
 publisher: {}
 description: >-
