@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-20T12:18:32.547Z'
+datePublished: '2017-01-18T17:52:09.851Z'
 sourcePath: _posts/2016-09-02-wonderfm-99-aktuelle-hits.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-20T12:18:31.687Z'
+dateModified: '2017-01-18T17:52:07.108Z'
 title: Wonder.fm - 99 aktuelle Hits
 publisher: {}
 description: >-
@@ -12,6 +12,7 @@ description: >-
   aufgekauft, in "Twitter Music" umbenannt und nach nicht allzu langer Zeit
   eingestellt... 
 starred: false
+datePublishedOriginal: '2016-09-20T12:18:32.547Z'
 _type: Blurb
 
 ---
