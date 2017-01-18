@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-20T12:19:53.595Z'
+datePublished: '2017-01-18T17:52:09.161Z'
 sourcePath: _posts/2016-09-09-smarter-playlists.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=TASsrQpJXo4'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/plamere'
     avatar: {}
 via: {}
-dateModified: '2016-09-20T12:19:52.977Z'
+dateModified: '2017-01-18T17:52:07.108Z'
 title: Smarter Playlists
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=TASsrQpJXo4&feature=applinks'
@@ -69,6 +69,7 @@ description: >-
   aufzunehmen - äh - eine Playliste zusammenzuklicken. 
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-09-20T12:19:53.595Z'
 _context: 'http://schema.org'
 _type: VideoObject
 
