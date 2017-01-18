@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-18T22:48:48.092Z'
+datePublished: '2017-01-18T17:41:33.926Z'
 sourcePath: _posts/2016-11-15-neu-gestaltetes-google-play-music-vorgestellt.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-18T22:48:47.395Z'
+dateModified: '2017-01-18T17:41:33.130Z'
 title: Neu gestaltetes Google Play Music vorgestellt
 app_links: []
 publisher:
@@ -32,6 +32,7 @@ description: >-
   ersten Tests erstaunlich gut.
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-11-18T22:48:48.092Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
