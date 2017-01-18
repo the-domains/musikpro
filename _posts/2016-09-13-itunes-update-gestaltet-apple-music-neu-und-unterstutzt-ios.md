@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-19T17:32:37.956Z'
+datePublished: '2017-01-18T17:41:33.588Z'
 inFeed: true
 isBasedOnUrl: >-
   http://www.heise.de/newsticker/meldung/iTunes-Update-gestaltet-Apple-Music-neu-und-unterstuetzt-iOS-10-3320958.html
@@ -10,7 +10,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-09-19T17:32:37.075Z'
+dateModified: '2017-01-18T17:41:33.130Z'
 title: iTunes-Update gestaltet Apple Music neu und unterstützt iOS 10
 app_links: []
 publisher:
@@ -27,6 +27,7 @@ inLanguage: de
 sourcePath: >-
   _posts/2016-09-13-itunes-update-gestaltet-apple-music-neu-und-unterstutzt-ios.md
 starred: false
+datePublishedOriginal: '2016-09-19T17:32:37.956Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
