@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-21T21:10:08.364Z'
+datePublished: '2017-01-18T17:52:09.539Z'
 sourcePath: >-
   _posts/2016-09-12-musikstreaming-dienste-brauchen-menschen-adieu-algorithmus.md
 inFeed: true
@@ -9,7 +9,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-21T21:08:35.444Z'
+dateModified: '2017-01-18T17:52:07.108Z'
 title: 'SWR2: "Musikstreaming-Dienste brauchen Menschen: Adieu Algorithmus?"'
 app_links: []
 publisher:
@@ -24,6 +24,7 @@ description: >-
   kommen 20.000 dazu. Aber: Kein Mensch kann und will das alles hören.
 inLanguage: de
 starred: false
+datePublishedOriginal: '2016-09-21T21:10:08.364Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
