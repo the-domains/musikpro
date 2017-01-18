@@ -4,75 +4,75 @@
         <description><![CDATA[Musik + Streaming]]></description>
         <link>http://musik.pro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Nov 2016 22:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2017 17:41:35 GMT</lastBuildDate>
         <atom:link href="http://musik.pro/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Nov 2016 22:48:48 GMT</pubDate>
+        <pubDate>Wed, 18 Jan 2017 17:41:34 GMT</pubDate>
         <item>
             <title><![CDATA[Song des Tages]]></title>
-            <description><![CDATA[<article><h1>Song des Tages</h1><p>Was für eine schöne Idee - einfach mal den "songdestages.de" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"></article>]]></description>
+            <description><![CDATA[<h1>Song des Tages</h1>,<p>Was für eine schöne Idee - einfach mal den "<a href="http://songdestages.de/">songdestages.de</a>" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. <br>Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"><h1>Song des Tages</h1></article>]]></description>
             <link>http://songdestages.de</link>
             <guid isPermaLink="false">262bd507-68dd-43b6-9cc1-0b123d10830a</guid>
             <pubDate>Mon, 19 Sep 2016 20:30:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kidvoting]]></title>
-            <description><![CDATA[<article><h1>Kidvoting</h1><p>Nicht ganz frisch, aber immer noch einen Link wert:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4beed86dfc2ce3bd1a58e747203d82c737473e98.jpg"></article>]]></description>
+            <description><![CDATA[<h1>Kidvoting</h1>,<p>Nicht ganz frisch, aber immer noch <a href="http://thump.vice.com/de/article/ich-habe-meine-kleinen-cousins-clubhits-bewerten-lassen">einen Link</a> wert:</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4beed86dfc2ce3bd1a58e747203d82c737473e98.jpg"><h1>Ich habe meine kleinen Cousins Clubhits bewerten lassen</h1><p>Meine Cousins Moritz und Paul sind vier und f&uuml;nf Jahre alt. Die beiden haben ein gro&szlig;es Interesse an meinen Turntables und haben, wie man an dem Foto sieht, schon flei&szlig;ig das Auflegen ge&uuml;bt. Vielleicht werden mal richtig gute DJs aus ihnen-wenn sie dann zehn Jahre alt sind...</p></article>]]></description>
             <link>http://thump.vice.com/de/article/ich-habe-meine-kleinen-cousins-clubhits-bewerten-lassen</link>
             <guid isPermaLink="false">ee287bca-fcd1-40f4-8728-42137c38d203</guid>
             <pubDate>Mon, 19 Sep 2016 20:10:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[iTunes-Update gestaltet Apple Music neu und unterstützt iOS 10]]></title>
-            <description><![CDATA[<article><h1>iTunes-Update gestaltet Apple Music neu und unterstützt iOS 10</h1><p>Mit iTunes 12.5 soll Apple Music "übersichtlicher und intuitiver" werden. Die neue Version 12.5.1 ist außerdem bereit für macOS Sierra, teilte der Hersteller mit und erlaube eine Steuerung von Apple Music über das Sprachassistenzsystem Siri.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/63ae133b0023b517c9ae19049efe3abd/noop.png?input=http%3A%2F%2Fwww.heise.de%2Fimgs%2F18%2F1%2F8%2F8%2F8%2F9%2F3%2F0%2FBildschirmfoto_2016-09-13_um_18-792f23edfeb726da.png"></article>]]></description>
-            <link>http://www.heise.de/newsticker/meldung/iTunes-Update-gestaltet-Apple-Music-neu-und-unterstuetzt-iOS-10-3320958.html</link>
-            <guid isPermaLink="false">77422ca4-93d1-4cf6-9d14-8bfe10eaffed</guid>
-            <pubDate>Mon, 19 Sep 2016 17:32:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SWR2: "Musikstreaming-Dienste brauchen Menschen: Adieu Algorithmus?"]]></title>
-            <description><![CDATA[<article><h1>SWR2: "Musikstreaming-Dienste brauchen Menschen: Adieu Algorithmus?"</h1><p>Musik für alle Lebenslagen, Songs für jede Stimmung - immer und überall, meistens gratis. Das ist das verführerische Angebot der Streamingdienste. Um die 40 Millionen Songs haben Deezer, Spotify und Co im Angebot, jeden Tag kommen 20.000 dazu. Aber: Kein Mensch kann und will das alles hören.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ff59e4d71f4f1d523ba9b5a8a6ff6c3b/noop.jpg?input=http%3A%2F%2Fwww.swr.de%2F-%2Fid%3D18079240%2Fproperty%3Dfull%2F4chvfq%2FMusikstreaming-Dienst%2520Deezer.jpg"></article>]]></description>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ff59e4d71f4f1d523ba9b5a8a6ff6c3b/noop.jpg?input=http%3A%2F%2Fwww.swr.de%2F-%2Fid%3D18079240%2Fproperty%3Dfull%2F4chvfq%2FMusikstreaming-Dienst%2520Deezer.jpg"><h1>SWR2: &quot;Musikstreaming-Dienste brauchen Menschen: Adieu Algorithmus?&quot;</h1><p>Musik f&uuml;r alle Lebenslagen, Songs f&uuml;r jede Stimmung - immer und &uuml;berall, meistens gratis. Das ist das verf&uuml;hrerische Angebot der Streamingdienste. Um die 40 Millionen Songs haben Deezer, Spotify und Co im Angebot, jeden Tag kommen 20.000 dazu. Aber: Kein Mensch kann und will das alles h&ouml;ren.</p></article>]]></description>
             <link>http://www.swr.de/swr2/kultur-info/netzkultur-musikstreaming-dienste-deezer-christoph-moeller/-/id=9597116/did=18078926/nid=9597116/1g5fwx1/index.html</link>
             <guid isPermaLink="false">f982200b-c1ea-478e-8b1c-b4f769b6e6e7</guid>
             <pubDate>Wed, 21 Sep 2016 21:10:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smarter Playlists]]></title>
-            <description><![CDATA[<article><h1>Smarter Playlists</h1><p>Für echte Musiknerds gibt es wohl keine schönere Beschäftigung als ein Mixtape aufzunehmen - äh - eine Playliste zusammenzuklicken. </p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6cba1f1d27c19c461e945dac097b5fd3/croprotate.jpg?cropheight=720&cropwidth=1185&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FTASsrQpJXo4%2Fmaxresdefault.jpg&x=48&y=0"></article>]]></description>
+            <description><![CDATA[<h1>Smarter Playlists</h1>,<p>Für echte Musiknerds gibt es wohl keine schönere Beschäftigung als ein Mixtape aufzunehmen - äh - eine Playliste zusammenzuklicken. </p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FTASsrQpJXo4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTASsrQpJXo4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTASsrQpJXo4%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>Da scheint der Dienst "<a href="http://smarterplaylists.playlistmachinery.com/">Smarter Playlists</a>" zur rechten Zeit zu kommen - das Prinzip erschliesst sich gut im <a href="https://www.youtube.com/watch?v=TASsrQpJXo4">Produktvideo</a>. Schade, funktioniert bisher nur mit Spotify, eine Ausweitung auf Google Play Music, Deezer etc. wäre schön.</p>]]></description>
             <link>https://www.youtube.com/watch?v=TASsrQpJXo4</link>
             <guid isPermaLink="false">efe0083c-3ce0-4f0d-b934-80662334537f</guid>
             <pubDate>Tue, 20 Sep 2016 12:19:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neu gestaltetes Google Play Music vorgestellt]]></title>
-            <description><![CDATA[<article><h1>Neu gestaltetes Google Play Music vorgestellt</h1><p>Das Userinterface wurde behutsam aktualisiert (verbessert). Die neuen auf künstlicher Intelligenz basierenden individuellen Playlisten funktionieren bei ersten Tests erstaunlich gut.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c30c967c75834e8a06c59be114488444/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fstatic%2Fblog%2Fimages%2Fgoogle-200x200.7714256da16f.png"></article>]]></description>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c30c967c75834e8a06c59be114488444/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fstatic%2Fblog%2Fimages%2Fgoogle-200x200.7714256da16f.png"><h1>Neu gestaltetes Google Play Music vorgestellt</h1></article>,<p>Das Userinterface wurde behutsam aktualisiert (verbessert). Die neuen auf künstlicher Intelligenz basierenden individuellen Playlisten funktionieren bei ersten Tests erstaunlich gut.</p>]]></description>
             <link>https://blog.google/products/google-play/introducing-the-new-google-play-music/</link>
             <guid isPermaLink="false">3e7ba64b-fa80-43ca-8a15-dcba6f12cd1b</guid>
             <pubDate>Fri, 18 Nov 2016 22:48:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[iTunes-Update gestaltet Apple Music neu und unterstützt iOS 10]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/63ae133b0023b517c9ae19049efe3abd/noop.png?input=http%3A%2F%2Fwww.heise.de%2Fimgs%2F18%2F1%2F8%2F8%2F8%2F9%2F3%2F0%2FBildschirmfoto_2016-09-13_um_18-792f23edfeb726da.png"><h1>iTunes-Update gestaltet Apple Music neu und unterst&uuml;tzt iOS 10</h1><p>Mit iTunes 12.5 soll Apple Music &quot;&uuml;bersichtlicher und intuitiver&quot; werden. Die neue Version 12.5.1 ist au&szlig;erdem bereit f&uuml;r macOS Sierra, teilte der Hersteller mit und erlaube eine Steuerung von Apple Music &uuml;ber das Sprachassistenzsystem Siri.</p></article>]]></description>
+            <link>http://www.heise.de/newsticker/meldung/iTunes-Update-gestaltet-Apple-Music-neu-und-unterstuetzt-iOS-10-3320958.html</link>
+            <guid isPermaLink="false">77422ca4-93d1-4cf6-9d14-8bfe10eaffed</guid>
+            <pubDate>Mon, 19 Sep 2016 17:32:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Spotify in weißer Farbe?]]></title>
-            <description><![CDATA[<article><h1>Spotify in weißer Farbe?</h1><p>Wer Spotify in schwarz nicht mag, kann nun eine nichtoffizielle Spotify-App namens "Spotio" herunterladen, welche das Interface von Spotify dann in weiß darstellt (inspiriert durch den inzwischen eingestellten Stremaing-Dienst "Rdio").Ob Spotify das gut findet und toleriert, wird sich zeigen...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7abb3df514381606a01289971b9474915939eb03.png"></article>]]></description>
+            <description><![CDATA[<h1>Spotify in weißer Farbe?</h1>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7abb3df514381606a01289971b9474915939eb03.png"><h1>Spotio: Spotify mit wei&szlig;em Anstrich.</h1></article>,<p>Wer Spotify in schwarz nicht mag, kann nun eine nichtoffizielle Spotify-App namens "<a href="http://spotio.devinhalladay.com/">Spotio</a>" herunterladen, welche das Interface von Spotify dann in weiß darstellt (inspiriert durch den inzwischen eingestellten Stremaing-Dienst "Rdio").<br>Ob Spotify das gut findet und toleriert, wird sich zeigen...</p>]]></description>
             <link>http://spotio.devinhalladay.com</link>
             <guid isPermaLink="false">4725cb29-0de0-4b4a-8435-9a5e936192de</guid>
             <pubDate>Wed, 21 Sep 2016 21:10:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EVERYNOISE]]></title>
-            <description><![CDATA[<article><h1>EVERYNOISE</h1><p>Wer Musik mag wird diese Website lieben, einfach rumklicken und Spaß haben. </p></article>]]></description>
+            <description><![CDATA[<article><h1>EVERYNOISE</h1></article>,<p>Wer Musik mag wird <a href="http://everynoise.com/">diese Website</a> lieben, einfach rumklicken und Spaß haben. </p>]]></description>
             <link>http://everynoise.com</link>
             <guid isPermaLink="false">a279b8a7-81eb-47c7-b898-314dcb6c50bd</guid>
             <pubDate>Tue, 20 Sep 2016 12:18:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zufriedenheitsstudie: Apple Music führt Streaming-Markt an]]></title>
-            <description><![CDATA[<article><h1>Zufriedenheitsstudie: Apple Music führt Streaming-Markt an</h1><p>In Europa bzw. Deutschland sähe das Ergebnis sicher anders aus…</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35d71c1c8219f3ec09d229b55945604d5d47c8ac.jpg"></article>]]></description>
+            <description><![CDATA[<p>In Europa bzw. Deutschland sähe das Ergebnis sicher anders aus…</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/528f5087c00ebb45843d6cdb1c745b5a/noop.jpeg?input=http%3A%2F%2Fwww.heise.de%2Fimgs%2F18%2F1%2F8%2F9%2F9%2F5%2F2%2F6%2Furn-newsml-dpa-com-20090101-150629-99-10515_large_4_3-3ccd137e332a534d.jpeg"><h1>Zufriedenheitsstudie: Apple Music f&uuml;hrt Streaming-Markt an</h1></article>]]></description>
             <link>http://www.heise.de/newsticker/meldung/Zufriedenheitsstudie-Apple-Music-fuehrt-Streaming-Markt-an-3337687.html</link>
             <guid isPermaLink="false">24757dd1-3693-4f19-9362-e8fc51d277a7</guid>
             <pubDate>Tue, 15 Nov 2016 12:11:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Was zahlen Streaming-Dienste an Musiker?]]></title>
-            <description><![CDATA[<article><h1>Was zahlen Streaming-Dienste an Musiker?</h1><p>Wieviele Streams müssen abgerufen werden, bis ein Musiker einen Dollar verdient? Auf "Digital Music News" gibt es eine interessante Balkengrafik dazu, aufgeschlüsselt nach Streaming-Diensten.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b18bb7a-4200-471d-9216-52449fc03a79.jpg"></article>]]></description>
+            <description><![CDATA[<h1>Was zahlen Streaming-Dienste an Musiker?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b18bb7a-4200-471d-9216-52449fc03a79.jpg" alt="Wieviele Streams m&uuml;ssen abgerufen werden, bis ein Musiker einen Dollar verdient? Auf &quot;Digital Music News&quot; gibt es eine interessante Balkengrafik dazu, aufgeschl&uuml;sselt nach Streaming-Diensten.">]]></description>
             <link>http://www.digitalmusicnews.com/2016/09/15/streaming-music-earn-1-dollar/</link>
             <guid isPermaLink="false">9e0e9945-1f97-42c9-8c13-7779451c3a6e</guid>
             <pubDate>Tue, 15 Nov 2016 12:10:28 GMT</pubDate>
