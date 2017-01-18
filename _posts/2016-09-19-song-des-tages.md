@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-19T20:30:57.310Z'
+datePublished: '2017-01-18T17:52:08.856Z'
 inFeed: true
 isBasedOnUrl: 'http://songdestages.de'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-19T20:30:56.923Z'
+dateModified: '2017-01-18T17:52:07.108Z'
 title: Song des Tages
 app_links: []
 publisher:
@@ -21,6 +21,7 @@ description: >-
 inLanguage: de
 sourcePath: _posts/2016-09-19-song-des-tages.md
 starred: false
+datePublishedOriginal: '2016-09-19T20:30:57.310Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
