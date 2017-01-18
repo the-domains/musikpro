@@ -4,16 +4,9 @@
         <description><![CDATA[Musik + Streaming]]></description>
         <link>http://musik.pro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Jan 2017 17:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2017 17:52:47 GMT</lastBuildDate>
         <atom:link href="http://musik.pro/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Jan 2017 17:41:35 GMT</pubDate>
-        <item>
-            <title><![CDATA[Song des Tages]]></title>
-            <description><![CDATA[<h1>Song des Tages</h1>,<p>Was für eine schöne Idee - einfach mal den "<a href="http://songdestages.de/">songdestages.de</a>" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. <br>Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"><h1>Song des Tages</h1></article>]]></description>
-            <link>http://songdestages.de</link>
-            <guid isPermaLink="false">262bd507-68dd-43b6-9cc1-0b123d10830a</guid>
-            <pubDate>Mon, 19 Sep 2016 20:30:57 GMT</pubDate>
-        </item>
+        <pubDate>Wed, 18 Jan 2017 17:52:13 GMT</pubDate>
         <item>
             <title><![CDATA[Kidvoting]]></title>
             <description><![CDATA[<h1>Kidvoting</h1>,<p>Nicht ganz frisch, aber immer noch <a href="http://thump.vice.com/de/article/ich-habe-meine-kleinen-cousins-clubhits-bewerten-lassen">einen Link</a> wert:</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4beed86dfc2ce3bd1a58e747203d82c737473e98.jpg"><h1>Ich habe meine kleinen Cousins Clubhits bewerten lassen</h1><p>Meine Cousins Moritz und Paul sind vier und f&uuml;nf Jahre alt. Die beiden haben ein gro&szlig;es Interesse an meinen Turntables und haben, wie man an dem Foto sieht, schon flei&szlig;ig das Auflegen ge&uuml;bt. Vielleicht werden mal richtig gute DJs aus ihnen-wenn sie dann zehn Jahre alt sind...</p></article>]]></description>
@@ -29,6 +22,13 @@
             <pubDate>Wed, 21 Sep 2016 21:10:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Neu gestaltetes Google Play Music vorgestellt]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c30c967c75834e8a06c59be114488444/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fstatic%2Fblog%2Fimages%2Fgoogle-200x200.7714256da16f.png"><h1>Neu gestaltetes Google Play Music vorgestellt</h1></article>,<p>Das Userinterface wurde behutsam aktualisiert (verbessert). Die neuen auf künstlicher Intelligenz basierenden individuellen Playlisten funktionieren bei ersten Tests erstaunlich gut.</p>]]></description>
+            <link>https://blog.google/products/google-play/introducing-the-new-google-play-music/</link>
+            <guid isPermaLink="false">3e7ba64b-fa80-43ca-8a15-dcba6f12cd1b</guid>
+            <pubDate>Fri, 18 Nov 2016 22:48:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Smarter Playlists]]></title>
             <description><![CDATA[<h1>Smarter Playlists</h1>,<p>Für echte Musiknerds gibt es wohl keine schönere Beschäftigung als ein Mixtape aufzunehmen - äh - eine Playliste zusammenzuklicken. </p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FTASsrQpJXo4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTASsrQpJXo4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTASsrQpJXo4%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>Da scheint der Dienst "<a href="http://smarterplaylists.playlistmachinery.com/">Smarter Playlists</a>" zur rechten Zeit zu kommen - das Prinzip erschliesst sich gut im <a href="https://www.youtube.com/watch?v=TASsrQpJXo4">Produktvideo</a>. Schade, funktioniert bisher nur mit Spotify, eine Ausweitung auf Google Play Music, Deezer etc. wäre schön.</p>]]></description>
             <link>https://www.youtube.com/watch?v=TASsrQpJXo4</link>
@@ -36,11 +36,11 @@
             <pubDate>Tue, 20 Sep 2016 12:19:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Neu gestaltetes Google Play Music vorgestellt]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c30c967c75834e8a06c59be114488444/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fstatic%2Fblog%2Fimages%2Fgoogle-200x200.7714256da16f.png"><h1>Neu gestaltetes Google Play Music vorgestellt</h1></article>,<p>Das Userinterface wurde behutsam aktualisiert (verbessert). Die neuen auf künstlicher Intelligenz basierenden individuellen Playlisten funktionieren bei ersten Tests erstaunlich gut.</p>]]></description>
-            <link>https://blog.google/products/google-play/introducing-the-new-google-play-music/</link>
-            <guid isPermaLink="false">3e7ba64b-fa80-43ca-8a15-dcba6f12cd1b</guid>
-            <pubDate>Fri, 18 Nov 2016 22:48:48 GMT</pubDate>
+            <title><![CDATA[Song des Tages]]></title>
+            <description><![CDATA[<h1>Song des Tages</h1>,<p>Was für eine schöne Idee - einfach mal den "<a href="http://songdestages.de/">songdestages.de</a>" raushaun - ok, die Veröffentlichungsdaten bisher offenbaren durchaus Lücken. <br>Vielleicht motiviert diese Verlinkung ja zu mehr dailyoutput...</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f4a3016e825996fd57001d4f62a979bb0d9630.jpg"><h1>Song des Tages</h1></article>]]></description>
+            <link>http://songdestages.de</link>
+            <guid isPermaLink="false">262bd507-68dd-43b6-9cc1-0b123d10830a</guid>
+            <pubDate>Mon, 19 Sep 2016 20:30:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iTunes-Update gestaltet Apple Music neu und unterstützt iOS 10]]></title>
