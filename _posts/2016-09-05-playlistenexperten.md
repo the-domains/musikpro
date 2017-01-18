@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-20T12:19:31.342Z'
+datePublished: '2017-01-18T17:52:08.808Z'
 sourcePath: _posts/2016-09-05-playlistenexperten.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-20T12:18:55.864Z'
+dateModified: '2017-01-18T17:52:07.108Z'
 title: Playlistenexperten
 publisher:
   url: >-
@@ -21,6 +21,7 @@ description: >-
   verfolgte.Das Portal Buzzfeed hat nun in einem länglichen Artikel die Teams
   portraitiert, die uns die Streaming-Listen zusammenstellen.
 starred: false
+datePublishedOriginal: '2016-09-20T12:19:31.342Z'
 _type: Blurb
 
 ---
